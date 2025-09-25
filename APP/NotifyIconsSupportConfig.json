@@ -5792,6 +5792,7 @@
     "appName": "海泰换电",
     "packageName": "com.haitai.swap",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAARVBMVEVzc3N0dHRzc3N0dHRwcHBzc3N3d3d1dXV0dHR1dXV0dHRzc3N1dXVzc3N0dHRycnJ1dXV0dHR1dXVzc3NwcHBzc3N0dHSA52bhAAAAFnRSTlMAoF9wEIAg3+8wz0Bgn79/n3+v3yBQw9wCWgAAARZJREFUeNrt10tqAzEQRVGprfYvjpP4o/0vNUaQPMQ1lHh44IHuqKDpMxCoQGk2m71NeUnIcmrdJK/SO49WfB5pu1t7p5fW3XbUaf/J6aW1VkmR005FjqTmSIqd/UFOLx32khyHkuEYEhxLouNJdFypwImkY3nqHOEYEh1HklPlhNJHlQRnkRNLJ0mO0/qE5DiUXIeS61ByHUp0bOnchi84w9Kmzef/+2dA391Nh+Q6kEwHkunYEh1KroPtkgedIseVfvpNGEiOg42XQ0cblZ0ghc4ChJLrUHIdSq5DyXUouQ4l25F0SU2Cky5yRqTrLUmS8+h2lRNLzZEkp0lyou5Fc5bzJ92TVZajXGlJ6g2eWbPZ7AX9Ak1Vh3U9LXxoAAAAAElFTkSuQmCC",
+    "iconColor": "#3EAA6E",
     "contributorName": "mario",
     "isEnabled": true,
     "isEnabledAll": false
